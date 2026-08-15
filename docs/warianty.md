@@ -1,33 +1,21 @@
 # Warianty Polonez Niebołaz
 
-## 1. Paramotor / Motorower powietrzny
+## 1. Bezzałogowy Niebołaz (dron)
+Platforma rozwojowa i testowa bez człowieka na pokładzie.
 
-Najbardziej dostępna ścieżka.
+## 2. Deskorolka (nowy wariant)
+Jednoosobowy latający dron sterowany jak deskorolka/longboard.  
+Maksymalna wysokość lotu: **5–10 metrów**.  
+Szczegóły: `wariant-deskorolka.md`
 
-- Skrzydło paralotniowe
-- Rama / wózek dwuosobowy lub jednoosobowy
-- Napęd: silnik elektryczny + śmigło (baterie) lub elektro-wodorowy range extender
-- Zalety: stosunkowo niska energia potrzebna do utrzymania lotu, istniejąca wiedza społeczności, możliwość bezpiecznego trenowania
-- Ograniczenia: zależność od pogody, start z rozbiegiem lub z wózka, mniejsza precyzja lądowania niż VTOL
+## 3. Paramotor / Motorower powietrzny
+Skrzydło miękkie + napęd elektryczny lub elektro-wodorowy.  
+Najbardziej klasyczna ścieżka wejścia w latanie z napędem.
 
-## 2. Dwuosobowy multikopter elektro-wodorowy
-
-Ambicyjny wariant VTOL.
-
-- Wiele wirników nośnych
-- Główne źródło mocy: baterie + ogniwo paliwowe wodorowe lub mały generator wodorowy jako range extender
-- Cel: pionowy start, zawis, ograniczony przelot z dwiema osobami
-- Główne problemy: gęstość energii, redundancja, hałas, ciepło, certyfikacja, koszt
-- Traktowany jako długoterminowy cel badawczy, nie najbliższy milestone
-
-## 3. Bezzałogowy Niebołaz (dron)
-
-Platforma rozwojowa i użytkowa bez człowieka na pokładzie.
-
-- Służy do testowania napędów, sterowania, wodoru, baterii i struktur
-- Może mieć wersje obserwacyjne, transportowe lekkie lub badawcze
-- Najbezpieczniejszy sposób na zbieranie realnych danych przed jakimikolwiek lotami załogowymi
+## 4. Dwuosobowy multikopter elektro-wodorowy
+Ambitny VTOL z bateriami + wodorem jako range extender.  
+Daleki cel badawczy.
 
 ---
 
-Kolejność prac: najpierw bezzałogowy → potem paramotor → dopiero na końcu próby multikoptera załogowego.
+Kolejność prac: bezzałogowy → deskorolka → paramotor → multikopter załogowy.
