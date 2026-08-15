@@ -27,10 +27,10 @@ Edukacja, symbol, zbieranie doświadczenia w softwarze, radiu i operacjach orbit
 
 ---
 
-## 2. Niebołaz Orbitalny – transport 4–5 osób + ładunek na orbitę
+## 2. Kapsuła
 
 ### Charakter
-Załogowy pojazd orbitalny (kapsuła / spaceplane) zdolny wynieść 4–5 osób i ładunek na niską orbitę okołoziemską (LEO).
+Załogowy pojazd orbitalny (**Kapsuła**) zdolny wynieść 4–5 osób i ładunek na niską orbitę okołoziemską (LEO).
 
 ### Twarda rzeczywistość fizyczna i inżynierska
 
@@ -61,7 +61,7 @@ Elektryczność i wodór mogą grać rolę w systemach pokładowych, manewrach o
    Suborbitalny demonstrator (znacznie łatwiejszy niż orbitalny).  
    Albo ładunek / eksperyment lecący na cudzej rakiecie.
 
-3. **Warstwa orbitalna załogowa**  
+3. **Warstwa orbitalna załogowa – Kapsuła**  
    Traktowana jako wizja pokoleniowa / narodowa / przemysłowa, nie jako kolejny milestone po deskorolce i paramotorze.
 
 ---
@@ -75,7 +75,7 @@ Elektryczność i wodór mogą grać rolę w systemach pokładowych, manewrach o
 | Paramotor                            | lokalna / regionalna     | średnia                                  |
 | Multikopter 2-os. elektro-wodorowy   | lokalna                  | niska (trudna)                           |
 | **Satelita (CubeSat)**               | orbitalna bezzałogowa    | średnia (przez rideshare)                |
-| **Transport 4–5 os. na orbitę**      | orbitalna załogowa       | ekstremalnie niska (skala państwowa/przemysłowa) |
+| **Kapsuła** (4–5 os. + ładunek)      | orbitalna załogowa       | ekstremalnie niska (skala państwowa/przemysłowa) |
 
 ---
 
@@ -84,6 +84,6 @@ Elektryczność i wodór mogą grać rolę w systemach pokładowych, manewrach o
 Nie mieszamy skal.  
 Deskorolka i paramotor uczą latania blisko ziemi.  
 Satelita uczy orbity bezzałogowej.  
-Załogowy transport na orbitę jest osobną klasą problemu – wolno o nim myśleć i pisać, ale nie wolno udawać, że wynika liniowo z poprzednich wariantów.
+**Kapsuła** (załogowy transport na orbitę) jest osobną klasą problemu – wolno o niej myśleć i pisać, ale nie wolno udawać, że wynika liniowo z poprzednich wariantów.
 
 Dokument ten istnieje po to, żeby wizja była spisana i jednocześnie uziemiona fizyką.
