@@ -12,14 +12,14 @@
 ## Warianty orbitalne (daleka wizja)
 
 5. **Satelita** (CubeSat / smallsat) – najbardziej realny sposób dotknięcia orbity
-6. **Transport 4–5 osób + ładunek na orbitę** – skala przemysłowa / pokoleniowa, nie DIY
+6. **Kapsuła** – transport 4–5 osób + ładunek na orbitę (skala przemysłowa / pokoleniowa)
 
 ## Dokumenty
 
 - `docs/warianty.md`
 - `docs/wariant-deskorolka.md`
 - `docs/szczegoly-techniczne.md`
-- `docs/warianty-orbitalne.md` – satelita + załogowy transport orbitalny (z twardymi limitami fizyki)
+- `docs/warianty-orbitalne.md` – Satelita + Kapsuła
 
 Zasada: nie mieszamy skal. Blisko ziemi uczymy się latania. Orbita załogowa to osobna klasa problemu.
 
