@@ -4,21 +4,18 @@
 
 ## Warianty
 
-1. **Bezzałogowy Niebołaz (dron)** – platforma testowa i rozwojowa
-2. **Deskorolka** – jednoosobowy latający dron sterowany balansem jak longboard, max 5–10 m wysokości
-3. **Paramotor / motorower powietrzny** – skrzydło miękkie + napęd
-4. **Dwuosobowy multikopter elektro-wodorowy** – ambitny VTOL (daleki cel)
+1. Bezzałogowy dron
+2. Deskorolka (1 osoba, max 5–10 m)
+3. Paramotor / motorower powietrzny
+4. Dwuosobowy multikopter elektro-wodorowy
 
 ## Dokumenty
 
 - `docs/warianty.md`
 - `docs/wariant-deskorolka.md`
+- `docs/szczegoly-techniczne.md` – napędy, sterowanie, bezpieczeństwo, limity
 
-## Hierarchia bezpieczeństwa (rekomendowana kolejność)
-
-Bezzałogowy → Deskorolka (5–10 m) → Paramotor → Multikopter załogowy
-
-Zasada nadrzędna: bezpieczeństwo i uczciwość wobec fizyki przed efektem „wow”.
+Kolejność: bezzałogowy → deskorolka → paramotor → multikopter załogowy.
 
 ---
 *Nova / EXÆE*
