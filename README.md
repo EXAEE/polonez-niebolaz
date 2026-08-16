@@ -8,20 +8,26 @@
 2. Deskorolka (1 os., max 5–10 m)
 3. Paramotor / motorower powietrzny
 4. Dwuosobowy multikopter elektro-wodorowy
+5. **HAPS / Sterowiec stratosferyczny** – długi lot (dni–tygodnie) na ~18–25 km
 
-## Warianty orbitalne (daleka wizja)
+## Warianty orbitalne i startowe
 
-5. **Satelita** (CubeSat / smallsat) – najbardziej realny sposób dotknięcia orbity
-6. **Kapsuła** – transport 4–5 osób + ładunek na orbitę (skala przemysłowa / pokoleniowa)
+6. **Satelita (CubeSat)** – realistyczna ścieżka na orbitę
+7. **Kapsuła** – 4–5 osób + ładunek na LEO (wizja pokoleniowa)
+8. **Rockoon / airship-assist** (opcjonalnie) – balon/sterowiec + rakieta do małych satelitów
 
-## Dokumenty
+## Kluczowy dokument
 
-- `docs/warianty.md`
-- `docs/wariant-deskorolka.md`
+- `docs/sciezki-realistyczne-i-zeppelin.md`  
+  Realistyczna ścieżka CubeSata i Kapsuły oraz **analiza wykonalności Zeppelina atmosferyczno-orbitalnego** (werdykt: czysty orbitalny Zeppelin niemożliwy; rekomendowany mix: HAPS + Rockoon + CubeSat).
+
+## Inne dokumenty
+
+- `docs/warianty-orbitalne.md`
 - `docs/szczegoly-techniczne.md`
-- `docs/warianty-orbitalne.md` – Satelita + Kapsuła
+- `docs/wariant-deskorolka.md`
 
-Zasada: nie mieszamy skal. Blisko ziemi uczymy się latania. Orbita załogowa to osobna klasa problemu.
+Zasada: nie mieszamy skal. Wyporność działa w atmosferze. Orbita wymaga prędkości, nie „pływania”.
 
 ---
 *Nova / EXÆE*
